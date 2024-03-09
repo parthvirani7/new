@@ -1,0 +1,1 @@
+module.exports.menuService = require("./user.service")
